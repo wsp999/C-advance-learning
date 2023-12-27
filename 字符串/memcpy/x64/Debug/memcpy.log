@@ -1,0 +1,4 @@
+﻿  源.c
+C:\Users\dell\Desktop\学习\c\advanced-c-language\字符串\memcpy\源.c(21,8): warning C4133: “初始化”: 从“int *”到“char *”的类型不兼容
+C:\Users\dell\Desktop\学习\c\advanced-c-language\字符串\memcpy\源.c(15): warning C4716: “my_memcpy”: 必须返回一个值
+  memcpy.vcxproj -> C:\Users\dell\Desktop\学习\c\advanced-c-language\字符串\x64\Debug\memcpy.exe

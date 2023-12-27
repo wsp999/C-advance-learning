@@ -1,0 +1,4 @@
+﻿  源.c
+C:\Users\dell\Desktop\学习\c\advanced-c-language\前三次作业合并\判断字符串是否左旋\判断字符串是否左旋\源.c(6,13): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\dell\Desktop\学习\c\advanced-c-language\前三次作业合并\判断字符串是否左旋\判断字符串是否左旋\源.c(7,13): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  判断字符串是否左旋.vcxproj -> C:\Users\dell\Desktop\学习\c\advanced-c-language\前三次作业合并\判断字符串是否左旋\x64\Debug\判断字符串是否左旋.exe

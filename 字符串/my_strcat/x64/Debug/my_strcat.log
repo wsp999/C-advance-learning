@@ -1,0 +1,3 @@
+﻿  源.c
+C:\Users\dell\Desktop\学习\c\advanced-c-language\字符串\my_strcat\源.c(14): warning C4716: “strcat”: 必须返回一个值
+  my_strcat.vcxproj -> C:\Users\dell\Desktop\学习\c\advanced-c-language\字符串\x64\Debug\my_strcat.exe

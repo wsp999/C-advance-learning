@@ -1,28 +1,5 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include "my_func.h"
-void c_messsage(peomes* dest)
-{
-	printf("请输入要修改信息的联系人:");
-	char name[20];
-	scanf("%s", name);
-	int i = search_people(dest, name);
-	if (i == -1)
-	{
-		printf("通讯录中查无此人，请重新操作.\n");
-		return;
-	}
-	printf("请输入修改信息：\n");
-	printf("请输入名字:");
-	scanf("%s", dest->data[i].name);
-	printf("请输入年龄:");
-	scanf("%d", &dest->data[i].age);
-	printf("请输入性别:");
-	scanf("%s", dest->data[i].sex);
-	printf("请输入电话:");
-	scanf("%s", dest->data[i].tele);
-	printf("请输入地址:");
-	scanf("%s", dest->data[i].place);
-}
 //显示菜单
 void menu()
 {
@@ -129,7 +106,7 @@ void search_message(peomes* dest)
 		dest->data[i].place); 
 }
 //修改某人信息
-void c_messsage(peomes* dest)
+void change_messsage(peomes* dest)
 {
 	printf("请输入要修改信息的联系人:");
 	char name[20];

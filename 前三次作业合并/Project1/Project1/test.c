@@ -25,7 +25,7 @@ int main()
 			search_message(&src);
 			break;
 		case 5:
-		    c_message(&src);
+			change_messsage(&src);
 			break;
 		case 6:
 			break;

@@ -22,4 +22,4 @@ void message_add(peomes* dest);
 void show_message(const peomes* dest);
 void delete_message(peomes* dest);
 void search_message(peomes* dest);
-void c_messsage(peomes* dest);
+void change_messsage(peomes* dest);

@@ -22,12 +22,15 @@ int main()
 			delete_message(&src);
 			break;
 		case 4:
+			search_message(&src);
 			break;
 		case 5:
+		    c_message(&src);
 			break;
 		case 6:
 			break;
 		case 0:
+			printf("程序结束。\n");
 			break;
 		default:
 			printf("输入错误，请重新输入：\n");

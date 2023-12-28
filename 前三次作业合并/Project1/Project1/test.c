@@ -28,6 +28,7 @@ int main()
 			change_messsage(&src);
 			break;
 		case 6:
+			qsort_message(&src);
 			break;
 		case 0:
 			printf("³ÌĞò½áÊø¡£\n");

@@ -1,5 +1,9 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include "my_func.h"
+int name_compare(const void* a, const void* b)
+{
+	return strcmp(((struct message*)a)->name, ((struct message*)b)->name);
+}
 //显示菜单
 void menu()
 {
@@ -128,4 +132,20 @@ void change_messsage(peomes* dest)
 	scanf("%s", dest->data[i].tele);
 	printf("请输入地址:");
 	scanf("%s", dest->data[i].place);
+}
+//信息排序
+void qsort_message(peomes* dest)
+{
+	if (dest->count == 0)
+	{
+		printf("目前通讯录没有内容无法排序.\n");
+		return;
+	}
+	if (dest->count == 1)
+	{
+		printf("目前通讯录只有一名联系人，无需排序\n");
+		return;
+	}
+	qsort(dest->data, dest->count, sizeof(dest->data[0]), name_compare);
+	printf("排序完成.\n");
 }

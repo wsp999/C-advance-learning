@@ -23,3 +23,4 @@ void show_message(const peomes* dest);
 void delete_message(peomes* dest);
 void search_message(peomes* dest);
 void change_messsage(peomes* dest);
+void qsort_message(peomes* dest);

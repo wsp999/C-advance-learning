@@ -1,3 +1,5 @@
 ﻿  my_func.c
-C:\Users\Lenovo\Desktop\c++语言学习\C-advance-learning\前三次作业合并\Project1\Project1\my_func.c(149,2): warning C4013: “qsort”未定义；假设外部返回 int
-  Project1.vcxproj -> C:\Users\Lenovo\Desktop\c++语言学习\C-advance-learning\前三次作业合并\Project1\x64\Debug\复现.exe
+C:\Users\dell\Desktop\学习\c\C-advance-learning\前三次作业合并\Project1\Project1\my_func.c(149,2): warning C4013: “qsort”未定义；假设外部返回 int
+  test.c
+  正在生成代码...
+  Project1.vcxproj -> C:\Users\dell\Desktop\学习\c\C-advance-learning\前三次作业合并\Project1\x64\Debug\复现.exe

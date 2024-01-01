@@ -12,7 +12,7 @@ struct message
 };
 struct message_arr
 {
-	struct message data[100];
+	struct message *data;
 	int count;//统计当前通讯率联系人个数，有大用
 };
 typedef struct message_arr peomes;

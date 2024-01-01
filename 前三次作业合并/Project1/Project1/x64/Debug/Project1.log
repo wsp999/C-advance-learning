@@ -1,5 +1,23 @@
 ﻿  my_func.c
+C:\Users\dell\Desktop\学习\c\C-advance-learning\前三次作业合并\Project1\Project1\my_func.c(23,24): error C2231: “.name”: 左操作数指向“struct”，使用“->”
+C:\Users\dell\Desktop\学习\c\C-advance-learning\前三次作业合并\Project1\Project1\my_func.c(43,24): error C2231: “.name”: 左操作数指向“struct”，使用“->”
+C:\Users\dell\Desktop\学习\c\C-advance-learning\前三次作业合并\Project1\Project1\my_func.c(45,25): error C2231: “.age”: 左操作数指向“struct”，使用“->”
+C:\Users\dell\Desktop\学习\c\C-advance-learning\前三次作业合并\Project1\Project1\my_func.c(47,24): error C2231: “.sex”: 左操作数指向“struct”，使用“->”
+C:\Users\dell\Desktop\学习\c\C-advance-learning\前三次作业合并\Project1\Project1\my_func.c(49,24): error C2231: “.tele”: 左操作数指向“struct”，使用“->”
+C:\Users\dell\Desktop\学习\c\C-advance-learning\前三次作业合并\Project1\Project1\my_func.c(51,24): error C2231: “.place”: 左操作数指向“struct”，使用“->”
+C:\Users\dell\Desktop\学习\c\C-advance-learning\前三次作业合并\Project1\Project1\my_func.c(66,52): error C2231: “.name”: 左操作数指向“struct”，使用“->”
+C:\Users\dell\Desktop\学习\c\C-advance-learning\前三次作业合并\Project1\Project1\my_func.c(67,14): error C2231: “.age”: 左操作数指向“struct”，使用“->”
+C:\Users\dell\Desktop\学习\c\C-advance-learning\前三次作业合并\Project1\Project1\my_func.c(68,14): error C2231: “.sex”: 左操作数指向“struct”，使用“->”
+C:\Users\dell\Desktop\学习\c\C-advance-learning\前三次作业合并\Project1\Project1\my_func.c(69,14): error C2231: “.tele”: 左操作数指向“struct”，使用“->”
+C:\Users\dell\Desktop\学习\c\C-advance-learning\前三次作业合并\Project1\Project1\my_func.c(70,14): error C2231: “.place”: 左操作数指向“struct”，使用“->”
+C:\Users\dell\Desktop\学习\c\C-advance-learning\前三次作业合并\Project1\Project1\my_func.c(106,51): error C2231: “.name”: 左操作数指向“struct”，使用“->”
+C:\Users\dell\Desktop\学习\c\C-advance-learning\前三次作业合并\Project1\Project1\my_func.c(107,13): error C2231: “.age”: 左操作数指向“struct”，使用“->”
+C:\Users\dell\Desktop\学习\c\C-advance-learning\前三次作业合并\Project1\Project1\my_func.c(108,13): error C2231: “.sex”: 左操作数指向“struct”，使用“->”
+C:\Users\dell\Desktop\学习\c\C-advance-learning\前三次作业合并\Project1\Project1\my_func.c(109,13): error C2231: “.tele”: 左操作数指向“struct”，使用“->”
+C:\Users\dell\Desktop\学习\c\C-advance-learning\前三次作业合并\Project1\Project1\my_func.c(110,13): error C2231: “.place”: 左操作数指向“struct”，使用“->”
+C:\Users\dell\Desktop\学习\c\C-advance-learning\前三次作业合并\Project1\Project1\my_func.c(126,24): error C2231: “.name”: 左操作数指向“struct”，使用“->”
+C:\Users\dell\Desktop\学习\c\C-advance-learning\前三次作业合并\Project1\Project1\my_func.c(128,25): error C2231: “.age”: 左操作数指向“struct”，使用“->”
+C:\Users\dell\Desktop\学习\c\C-advance-learning\前三次作业合并\Project1\Project1\my_func.c(130,24): error C2231: “.sex”: 左操作数指向“struct”，使用“->”
+C:\Users\dell\Desktop\学习\c\C-advance-learning\前三次作业合并\Project1\Project1\my_func.c(132,24): error C2231: “.tele”: 左操作数指向“struct”，使用“->”
+C:\Users\dell\Desktop\学习\c\C-advance-learning\前三次作业合并\Project1\Project1\my_func.c(134,24): error C2231: “.place”: 左操作数指向“struct”，使用“->”
 C:\Users\dell\Desktop\学习\c\C-advance-learning\前三次作业合并\Project1\Project1\my_func.c(149,2): warning C4013: “qsort”未定义；假设外部返回 int
-  test.c
-  正在生成代码...
-  Project1.vcxproj -> C:\Users\dell\Desktop\学习\c\C-advance-learning\前三次作业合并\Project1\x64\Debug\复现.exe
